@@ -8,7 +8,7 @@ An autonomous Indian Space Command Sentinel built as a one-person side project t
 
 ---
 
-** Screenshots**
+## Screenshots
 
 <div align="center">
 

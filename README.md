@@ -8,7 +8,7 @@ An autonomous Indian Space Command Sentinel built as a one-person side project t
 
 ---
 
-🎥 Screenshots
+** Screenshots**
 
 <div align="center">
 
@@ -24,7 +24,7 @@ An autonomous Indian Space Command Sentinel built as a one-person side project t
 
 </div>---
 
-## 🚀 Problem Statement
+##  Problem Statement
 
 With rapidly growing space debris, expanding satellite constellations, and increasing space weather threats, protecting national space assets has become critical. Traditional tools are often complex, expensive, and not specifically focused on Indian constellation priorities (GSAT, IRNSS/NavIC, RISAT, Cartosat, Pixxel, Dhruva, etc.).
 
@@ -32,7 +32,7 @@ With rapidly growing space debris, expanding satellite constellations, and incre
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Cinematic Intro**: Full-screen glowing golden Sudarshan Chakra with orbital rings, particles, and thunder effects
 - **Live 3D Orbit Visualizer**: Interactive Earth globe with real-time SGP4 propagation of Indian satellites
@@ -44,7 +44,7 @@ With rapidly growing space debris, expanding satellite constellations, and incre
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework**: Streamlit + Custom CSS + Three.js
 - **Orbital Mechanics**: SGP4 propagation with physics-based calculations
@@ -65,7 +65,7 @@ With rapidly growing space debris, expanding satellite constellations, and incre
 
 ---
 
-## 📋 How to Run Locally
+##  How to Run Locally
 
 ```bash
 # 1. Clone the repository

@@ -4,7 +4,7 @@
 
 An autonomous Indian Space Command Sentinel built as a one-person side project to showcase next-generation space intelligence capabilities.
 
-![Sudarshan Cinematic Intro](https://github.com/srirangambadrinath/project-sudarshan/blob/main/assets/Main.png?raw=true)
+![Sudarshan Cinematic Intro](https://github.com/srirangambadrinath/project-sudarshan/blob/main/assets/main.png?raw=true)
 
 ---
 

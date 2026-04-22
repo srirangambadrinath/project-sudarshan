@@ -17,13 +17,13 @@ An autonomous Indian Space Command Sentinel built as a one-person side project t
 - **Trajectory Planner**: Animated Hohmann transfers with Δv and fuel calculations
 - **Hazard Analysis**: Real-time collision risk assessment for Indian assets
 
-## 🚀 Problem Statement
+## Problem Statement
 
 With growing space debris, increasing satellite constellations, and rising space weather threats, protecting national space assets has become critical. Traditional tools are often complex, expensive, or not focused on Indian constellation priorities (GSAT, IRNSS/NavIC, RISAT, Cartosat, Pixxel, Dhruva, etc.).
 
 **Sudarshan** provides an accessible, visually stunning, and physics-based solution for real-time Space Situational Awareness (SSA) and mission control.
 
-## ✨ Key Features
+##  Key Features
 
 - **Cinematic Opening Sequence**: Full-screen animated golden Sudarshan Chakra intro with particle effects and thunder
 - **Live 3D Orbit Visualization**: Interactive Earth globe with SGP4 propagation of Indian satellites
@@ -33,7 +33,7 @@ With growing space debris, increasing satellite constellations, and rising space
 - **Command Uplink Interface**: Simple control panel with pipeline engagement
 - **Beautiful Dark Cosmic UI**: Custom Streamlit dashboard with saffron-teal mission control aesthetics
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: Streamlit + Custom CSS + Three.js (for cinematic intro and 3D globe)
 - **Orbital Mechanics**: SGP4 propagation + physics-based calculations
@@ -44,7 +44,7 @@ With growing space debris, increasing satellite constellations, and rising space
 
 **Built entirely on ASUS TUF F15 (RTX 2050, 16GB RAM)** as a solo side project using only free public data.
 
-## 📋 How to Run Locally
+##  How to Run Locally
 
 ```bash
 # 1. Clone the repository

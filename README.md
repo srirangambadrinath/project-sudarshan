@@ -4,7 +4,7 @@
 
 An autonomous Indian Space Command Sentinel built as a one-person side project to showcase next-generation space intelligence capabilities.
 
-![Sudarshan Cinematic Intro](https://github.com/srirangambadrinath/project-sudarshan/blob/main/assets/sudarshan_chakra.png?raw=true)
+![Sudarshan Cinematic Intro](https://github.com/srirangambadrinath/project-sudarshan/blob/main/assets/sudarshan_intro.png?raw=true)
 
 ---
 
@@ -12,7 +12,7 @@ An autonomous Indian Space Command Sentinel built as a one-person side project t
 
 <div align="center">
 
-![Project Sudarshan Dashboard](https://github.com/srirangambadrinath/project-sudarshan/blob/main/assets/dashboard_screenshot.png?raw=true)
+![Project Sudarshan Dashboard](https://github.com/srirangambadrinath/project-sudarshan/blob/main/assets/dashboard_main.png?raw=true)
 
 **Cinematic Golden Sudarshan Chakra Intro**  
 **Interactive 3D Earth with Real-time SGP4 Propagation**  

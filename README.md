@@ -8,19 +8,21 @@ An autonomous Indian Space Command Sentinel built as a one-person side project t
 
 ---
 
-## 🎥 Live Demo & Screenshots
+🎥 Screenshots
 
 <div align="center">
 
-![Project Sudarshan Dashboard](https://github.com/srirangambadrinath/project-sudarshan/blob/main/assets/dashboard_main.png?raw=true)
+<img src="https://github.com/srirangambadrinath/project-sudarshan/blob/main/assets/sudarshan_intro.png?raw=true" width="800" alt="Sudarshan Cinematic Intro">
 
-**Cinematic Golden Sudarshan Chakra Intro**  
-**Interactive 3D Earth with Real-time SGP4 Propagation**  
-**Trajectory Planner with Animated Hohmann Transfers**
+<br><br>
 
-</div>
+<img src="https://github.com/srirangambadrinath/project-sudarshan/blob/main/assets/dashboard_main.png?raw=true" width="800" alt="Live 3D Dashboard">
 
----
+<br><br>
+
+<img src="https://github.com/srirangambadrinath/project-sudarshan/blob/main/assets/trajectory_planner.png?raw=true" width="800" alt="Trajectory Planner">
+
+</div>---
 
 ## 🚀 Problem Statement
 

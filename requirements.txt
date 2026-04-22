@@ -9,3 +9,5 @@ schedule
 
 # For better 3D / visualization support (recommended)
 pydeck
+tqdm
+
